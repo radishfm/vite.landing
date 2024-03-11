@@ -1,0 +1,32 @@
+// сброс стилей для тела страницы
+body {
+    margin      : 0;
+    padding     : 0;
+    width       : 100%;
+    height      : 100%;
+// @include defaultBodyFont;
+  }
+  
+  // responsive для картинок
+  img {
+    max-width : 100%
+  }
+  
+  // убираем подчеркивание для ссылок
+  a {
+    text-decoration : none;
+  }
+  
+  // сбрасываем отступы для контента
+  h1, h2, h3, h4, h5, h6,
+  figure,
+  p {
+    padding : 0;
+    margin  : 0;
+  }
+  
+  // задаем размерность блоков
+  *, *:before, *:after {
+    box-sizing: border-box;
+  }
+  

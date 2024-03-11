@@ -1,0 +1,12 @@
+._hide {
+    display: none!important;
+}
+.grid{
+    display: grid;
+}
+.wrapper{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 var(--wrapperPadding);
+    max-width: var(--wrapperWidth);
+}
