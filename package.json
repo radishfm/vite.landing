@@ -12,9 +12,11 @@
     "vue": "^3.4.19"
   },
   "devDependencies": {
+    "@mdi/js": "^7.4.47",
     "@vitejs/plugin-vue": "^5.0.4",
     "pug": "^3.0.2",
     "sass": "^1.71.1",
-    "vite": "^5.1.4"
+    "vite": "^5.1.4",
+    "vite-svg-loader": "^5.1.0"
   }
 }

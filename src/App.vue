@@ -1,9 +1,11 @@
 <script setup>
 import Header from './components/Header.vue'
+import Banner from './components/Banner.vue'
 </script>
 
 <template lang="pug">
-  Header
+Header
+Banner
 </template>
 
 <style lang="scss">

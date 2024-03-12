@@ -12,11 +12,33 @@ body {
     min-width: 320px;
     color: var(--white);
     background-color: var(--blueDark);
+    font-family: "Montserrat", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
 }
+a:not([class]) {
+    color: var(--white);
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
 
 
 ._hide {
     display: none!important;
+}
+.flex{
+    display: flex;
+}
+.ai-center{
+    align-items: center;
+}
+.jc-center{
+    justify-content: center;
 }
 .grid{
     display: grid;

@@ -5,3 +5,4 @@ Landing with vue, pug, scss
 Документация pug - https://pugjs.org/language/attributes.html <br>
 Документация scss - https://sass-scss.ru/documentation/ <br>
 Документация по grid layout - https://developer.mozilla.org/ru/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout <br>
+Документация vite - https://vitejs.dev/ <br>
